@@ -11,13 +11,13 @@
 
     <div class="text-block">
       <h3>Warhammer 40k</h3>
-          <p>Aworld of war, faith, survival and strength.</p>
+          <p>A world of war, faith, survival and strength.</p>
     </div>
 
 
     <div class="topnav topnav-centered">
       <a class="active" href="/webpage.php">Home</a>
-      <a href="#apply">Apply</a>
+      <a href="/application.php">Apply</a>
       <a href="#info">Info</a>
     </div>
 
