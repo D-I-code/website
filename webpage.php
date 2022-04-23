@@ -18,7 +18,7 @@
     <div class="topnav topnav-centered">
       <a class="active" href="/webpage.php">Home</a>
       <a href="/application.php">Apply</a>
-      <a href="#info">Info</a>
+      <a href="/info.php">Info</a>
     </div>
 
 
